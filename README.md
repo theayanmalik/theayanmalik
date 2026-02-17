@@ -121,7 +121,7 @@ I enjoy designing systems that are clean, modular, and production-oriented.
 - Focused on maintainable pipeline architecture  
 - Evaluated performance on benchmark datasets  
 
-🔗 https://github.com/theayanmalik/deepfake-detection
+🔗 https://github.com/theayanmalik
 # 📊 GitHub Statistics
 
 <p align="center">
