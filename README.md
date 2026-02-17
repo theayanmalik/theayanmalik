@@ -1,10 +1,9 @@
-# GitHub-Profile-README
 <h1 align="center">Hi 👋, I'm Md Ayan Parwez</h1>
-<h3 align="center">Software Engineer | AI & Backend Enthusiast | IIIT Bhagalpur</h3>
+<h3 align="center">Software Engineer | Backend & AI Systems | IIIT Bhagalpur</h3>
 
 <p align="center">
   <a href="https://github.com/theayanmalik">
-    <img src="https://komarev.com/ghpvc/?username=theayanmalik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=theayanmalik&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -12,106 +11,137 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE — IIIT Bhagalpur
-- 💻 Backend-focused Software Developer
-- 🧠 Strong in Data Structures & Algorithms
-- 🔐 Interested in scalable systems & secure backend architectures
-- 📊 Passionate about building data-driven applications
+- 🎓 B.Tech — Computer Science & Engineering, IIIT Bhagalpur  
+- 💻 Backend-focused Software Developer  
+- 🧠 Strong in Data Structures & Algorithms  
+- 🔐 Interested in secure, scalable backend architectures  
+- 🤖 Exploring AI-driven systems & ML-powered applications  
+- ☁ Exposure to Cloud fundamentals & containerized systems  
+
+I enjoy designing systems that are clean, modular, and production-oriented.
 
 ---
 
-# 🔥 Featured Projects
+# 🔥 Core Focus Areas
 
-## 🗳️ Election Management Portal
-*Backend | SQL | Authentication | Secure Transactions*
+- Backend System Design
+- REST API Development
+- Database Architecture & Optimization
+- Transactional Workflows
+- Analytics & Reporting Automation
+- AI/ML Backend Integration
+- Cloud & Container Concepts
 
-- Role-based access control
-- ACID-compliant SQL operations
-- Real-time aggregation & reporting
-- Secure vote transaction handling  
+---
 
-🔗 https://github.com/theayanmalik
+# 🛠 Tech Stack
+
+## 👨‍💻 Programming
+- Python
+- Java
+- JavaScript
+- SQL
+
+## 🌐 Backend & Web
+- REST APIs
+- Authentication & RBAC
+- Node.js (Basics)
+- React (Basics)
+- HTML / CSS
+
+## 🗄 Databases
+- MySQL
+- PostgreSQL
+- Relational Schema Design
+- Query Optimization
+- ACID Transactions
+
+## ☁ Cloud & DevOps
+- IBM Cloud Fundamentals
+- Kubernetes Basics
+- Git & Version Control
+
+## 📊 System Concepts
+- Data Structures & Algorithms
+- Time & Space Complexity
+- Object-Oriented Programming
+- Logging & Error Handling
+
+---
+
+# 🧩 Featured Projects
+
+---
+
+## 🗳 Election Management Portal
+*Secure Backend System | SQL | Role-Based Access Control*
+
+- Designed authentication & role-based authorization system  
+- Implemented ACID-compliant transactional vote handling  
+- Prevented duplicate operations using validation & constraints  
+- Built optimized SQL aggregation queries for real-time reporting  
+- Structured modular backend components simulating enterprise systems  
+
+🔗 https://github.com/theayanmalik/election-management-portal
 
 ---
 
 ## 🤖 AI-Driven Complaint Resolution System
-*Python | REST APIs | SQL Analytics*
+*Python | REST Backend | SQL Analytics*
 
-- Ticket lifecycle management
-- Escalation & prioritization workflows
-- SQL aggregation for operational insights
-- Backend error handling & modular design  
+- Designed complaint lifecycle workflow (creation → escalation → closure)  
+- Implemented ticket prioritization & status tracking logic  
+- Generated operational summaries using SQL aggregation  
+- Structured backend modules with validation & error handling  
+- Simulated real-world enterprise support platform architecture  
 
-🔗 https://github.com/theayanmalik
+🔗 https://github.com/theayanmalik/complaint-resolution-system
 
 ---
 
 ## 🎬 Movie Recommendation System
-*Machine Learning | Algorithms | Data Processing*
+*Machine Learning | Data Processing | Algorithms*
 
-- Similarity-based recommendation engine
-- Ranking logic optimization
-- Dataset preprocessing & evaluation  
+- Built similarity-based recommendation engine  
+- Implemented ranking logic & dataset preprocessing  
+- Designed backend inference workflow  
+- Applied evaluation metrics for performance validation  
 
-🔗 https://github.com/theayanmalik
+🔗 https://github.com/theayanmalik/movie-recommendation-system
 
 ---
 
 ## 🧠 Deepfake Detection System
 *ML Pipeline | Backend Integration*
 
-- Image preprocessing & inference workflow
-- Model validation & evaluation
-- Structured backend data handling  
+- Developed image preprocessing & inference workflow  
+- Structured ML invocation through backend modules  
+- Focused on maintainable pipeline architecture  
+- Evaluated performance on benchmark datasets  
 
-🔗 https://github.com/theayanmalik
-
----
-
-# 🛠 Tech Stack & Skills
-
-## 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🌐 Web
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## ☁ Cloud & DevOps
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🔗 https://github.com/theayanmalik/deepfake-detection
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theayanmalik&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theayanmalik&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayanmalik&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayanmalik&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 # 🏆 Certifications
 
-- IBM Cloud Kubernetes Service  
-- IBM Cloud Professional Architect Concepts  
-- Advanced SQL & PostgreSQL  
-- Technical Support Fundamentals (Google)  
-- JavaScript Essentials (Cisco)
+- IBM Cloud Kubernetes Service — IBM SkillsBuild  
+- IBM Cloud Professional Architect Concepts — IBM SkillsBuild  
+- Advanced SQL & PostgreSQL Developer Guide — Udemy  
+- Technical Support Fundamentals — Google  
+- JavaScript Essentials — Cisco Networking Academy  
 
 ---
 
@@ -122,4 +152,8 @@
 
 ---
 
-> "Build scalable systems. Write clean code. Think in architecture."
+### 💡 Engineering Philosophy
+
+> Write clean code.  
+> Design scalable systems.  
+> Think in architecture.
