@@ -127,9 +127,7 @@ I enjoy designing systems that are clean, modular, and production-oriented.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theayanmalik&show_icons=true&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayanmalik&theme=radical" />
-</p>
+
 # 🏆 Certifications
 
 - IBM Cloud Kubernetes Service — IBM SkillsBuild  
