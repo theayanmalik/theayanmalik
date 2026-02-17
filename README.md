@@ -122,16 +122,12 @@ I enjoy designing systems that are clean, modular, and production-oriented.
 - Evaluated performance on benchmark datasets  
 
 🔗 https://github.com/theayanmalik/deepfake-detection
-
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theayanmalik&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theayanmalik&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayanmalik&theme=radical" />
-</p>
 
 ---
 # 🏆 Certifications
