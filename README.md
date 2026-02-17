@@ -1,13 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Md Ayan Parwez</h1>
 <h3 align="center">Software Engineer | Backend & AI Systems | IIIT Bhagalpur</h3>
 
 <p align="center">
   <a href="https://github.com/theayanmalik">
-  
+    <img src="https://komarev.com/ghpvc/?username=theayanmalik&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
+---
 ---
 
 ## 🚀 About Me
