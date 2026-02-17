@@ -127,7 +127,7 @@ I enjoy designing systems that are clean, modular, and production-oriented.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=theayanmalik&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theayanmalik&show_icons=true&theme=radical&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
@@ -140,12 +140,11 @@ I enjoy designing systems that are clean, modular, and production-oriented.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayanmalik&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theayanmalik&layout=compact&theme=radical&hide_border=true"
     height="180"
     alt="Top Languages"
   />
 </p>
-
 # 🏆 Certifications
 
 - IBM Cloud Kubernetes Service — IBM SkillsBuild  
